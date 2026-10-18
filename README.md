@@ -1,8 +1,8 @@
 # Hi, I'm Ivan 👋
 
-I build systems where the architecture matters — distributed backends, on-device ML pipelines, and agentic workflows. Most of what I ship sits at the intersection of Rust, Go, and AI tooling.
+Backend and fullstack developer in Kyiv, Ukraine.
 
-Currently deep in two projects (see below). Open to **strong junior → mid backend or fullstack roles** (Go, Rust, TypeScript).
+Currently deep in two projects (see below). Open to junior → mid backend or fullstack roles.
 
 ---
 
@@ -20,20 +20,9 @@ An MCP server that exposes scripture search through vector embeddings, making it
 
 ---
 
-### 📝 Writing
+### 🛠 Worked with
 
-- [Migrating a static site from AWS to Cloudflare — a cost breakdown](https://github.com/ivan-dutov-work/migrate-from-aws-to-cloudflare)
-- [Building a deep research agent with LangGraph](https://github.com/ivan-dutov-work/course-discovery-agent) *(in progress)*
-
----
-
-### 🛠 Stack
-
-| | |
-| :--- | :--- |
-| **Strong** | ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| **Working with** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white) |
-| **Infra** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Postgres](https://img.shields.io/badge/-Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+TypeScript, Node.js, Python, Rust, PostgreSQL, Prisma, Docker, AWS, Terraform, GitHub Actions, REST, Telegram Bot API
 
 ---
 
